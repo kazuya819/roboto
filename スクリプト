@@ -15,7 +15,7 @@ static WbDeviceTag head_tilt_motor;
 static WbDeviceTag torso_motor;
 static WbDeviceTag torso_sensor;
 
-// PR2 sensor devices
+// sensor devices
 static WbDeviceTag left_finger_contact_sensors[2];
 static WbDeviceTag right_finger_contact_sensors[2];
 static WbDeviceTag imu_sensor;
